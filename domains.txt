@@ -1,64 +1,13 @@
-# Google
-google.com
-gstatic.com
-googleusercontent.com
-googleapis.com
-gmail.com
-google-analytics.com
-googletagmanager.com
+geosite:google@cn
+geosite:telegram
+geosite:cloudflare
+geosite:category-ru
 
-# Yandex
-yandex.ru
-yandex.net
-yandex.com
-yastatic.net
-yastatic-net.ru
+geosite:habr
+geosite:feedly
+geosite:github
+geosite:medium
 
-# Cloudflare
-cloudflarestorage.com
-
-# Avito
-avito.ru
-avito.st
-
-# VK
-vk.com
-userapi.com
-vk-portal.net
-mail.ru
-okcdn.ru
-vkvideo.ru
-mycdn.me
-vkuseraudio.net
-
-# Telegram
-telegram.org
-t.me
-telesco.pe
-
-# GitHub
-github.com
-github.io
-githubassets.com
-githubusercontent.com
-
-# Habr
-habr.com
-habrastorage.org
-
-# AI
 lmarena.ai
-
-# Dev
-tailwindcss.com
-feedly.com
-medium.com
 excalidraw.com
-
-# Miscellaneous
-rutube.ru
-radioultra.ru
-ozon.ru
-wildberries.ru
-gosuslugi.ru
-hh.ru
+tailwindcss.com
