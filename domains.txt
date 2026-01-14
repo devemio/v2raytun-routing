@@ -8,6 +8,8 @@ geosite:feedly
 geosite:github
 geosite:medium
 
+hotbot.ai
 lmarena.ai
+neverssl.com
 excalidraw.com
 tailwindcss.com
