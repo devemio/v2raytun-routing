@@ -47,11 +47,20 @@ func main() {
 		DomainMatcher:  "hybrid",
 		Rules: []Rule{
 			{
+				ID:   uuid.NewString(),
+				Type: "field",
+				Domain: []string{
+					"geosite:category-ads-all",
+				},
+				OutboundTag: "block",
+				Name:        "Ads",
+			},
+			{
 				ID:          uuid.NewString(),
 				Type:        "field",
 				Domain:      domains,
 				OutboundTag: "direct",
-				Name:        "Default",
+				Name:        "Direct",
 			},
 		},
 		Balancers: []any{},
