@@ -9,6 +9,6 @@ geosite:feedly
 geosite:github
 geosite:medium
 
-lmarena.ai
+arena.ai
 excalidraw.com
 tailwindcss.com
