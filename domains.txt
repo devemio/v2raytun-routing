@@ -1,5 +1,4 @@
 geosite:google@cn
-geosite:telegram
 geosite:cloudflare
 geosite:category-ru
 
